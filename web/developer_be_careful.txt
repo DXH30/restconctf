@@ -1,0 +1,14 @@
+When we open the site at https://modest-aryabhata-0ea7f4.netlify.app/
+We notice there’s a message saying I told the developer to be careful while making a git commit..
+Developed byAltaf Shaikh, from the message it must have connection with git repository, and then we search for Altaf Shaikh git repository with Google.
+We found the challenge git repository is at https://github.com/altafshaikh/past_never_leaves
+And so we get clone it to our local machine, and then we do get log and find out the log has some file removed 
+commit ba2838ab72bb954ea54d1c4f8aacfc39f26f5abf
+Author: altafshaikh <iamaltafshaikh07@gmail.com>
+Date:   Tue Aug 25 20:09:58 2020 +0530
+
+    removed
+and we do
+git show ba2838ab72bb954ea54d1c4f8aacfc39f26f5abf
+and find out the Flag is
+RESTCON{g1t_ch3ck0ut}

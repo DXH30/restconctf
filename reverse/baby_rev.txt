@@ -1,0 +1,5 @@
+just do 
+strings ./bla
+and you’ll find
+RESTCON{B4S1C_FL4G}
+

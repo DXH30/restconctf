@@ -1,0 +1,3 @@
+The flag is encoded into Base64, noticeable with == at the end
+UkVTVENPTntSRVNUQ09OXzJORF9CQVNJQ19GTEFHfQ==
+RESTCON{RESTCON_2ND_BASIC_FLAG}

@@ -1,0 +1,3 @@
+Get the file and do string check inside with
+strings garbage.txt, and then the flag is eventually show up, which is
+RESTCON{GR3P_7HE_FL4G}

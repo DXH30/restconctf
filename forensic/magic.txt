@@ -1,0 +1,5 @@
+If you open the image, and scan it with qr code scanner you’ll find
+RESTCON{29a9df89e2858e5a25c83b6a00352d19}
+And when you paste it to the submit, it will fail.
+Check again the Note, it said FLAG IS IN PLAIN TEXT, use chiper identifier to check what is the type of this ciphertext https://www.boxentriq.com/code-breaking/cipher-identifier, you’ll find out it is a MD5 Hash, and then you could search text matching the MD5 Hash using https://www.md5online.org/md5-decrypt.html , and eventually you’ll find out the text is mirr0r. Then the flag is
+RESTCON{mirr0r}
